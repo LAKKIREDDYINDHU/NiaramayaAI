@@ -1,0 +1,5 @@
+tensorflow
+pillow
+streamlit_lottie
+google-generativeai
+streamlit
